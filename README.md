@@ -54,3 +54,5 @@ kubectl port-forward svc/argocd-server -n argocd 8081:80
 
 12. Deploy the app with argocd
 https://argo-cd.readthedocs.io/en/stable/getting_started/
+
+13. Connect to ui with nip.io dns name from step 6 in a browser
