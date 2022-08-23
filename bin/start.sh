@@ -2,4 +2,4 @@
 set -e
 
 echo 'starting ruby app'
-bin/rails server
+bin/rails server -b 0.0.0.0 -p 3000
