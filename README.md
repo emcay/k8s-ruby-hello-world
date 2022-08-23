@@ -1,5 +1,10 @@
 # k8s-ruby-hello-world
 
+Assumptions:
+
+Linux host env is arbitary
+App is intended to be deployed with argocd
+
 Purpose:
 
 To demonstrate a simple Ruby Rails hello world implimentation with helm argocd and nginx-ingress.
